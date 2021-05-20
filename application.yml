@@ -1,7 +1,6 @@
 user:
   firstName: nive
-from:
-  address: chennai
+
 management:
   endpoint:
     health:
